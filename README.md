@@ -1,4 +1,4 @@
-##Hi, I'm Diya 👋
+Hi, I'm Diya 👋
 
 I'm a junior in college studying Data Science, currently focused on Data Science and Machine Learning. I'm especially interested in how ML models can be applied to real-world problems — from healthcare to personal finance — and I'm building my skills through hands-on projects while I explore the field.
 
