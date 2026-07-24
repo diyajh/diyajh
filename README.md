@@ -1,16 +1,18 @@
-## Hi there 👋
+##Hi, I'm Diya 👋
 
-<!--
-**diyajh/diyajh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior in college studying Data Science, currently focused on Data Science and Machine Learning. I'm especially interested in how ML models can be applied to real-world problems — from healthcare to personal finance — and I'm building my skills through hands-on projects while I explore the field.
 
-Here are some ideas to get you started:
+What I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Medical-chatbot — an NLP-based chatbot for answering medical queries
+finance-mtf-dashboard — a dashboard surfacing MTF (margin trade funding) insights
+Roomie — a "Tinder for roommates" matching app
+personal-email-client — a Python-based email client
+
+Currently learning: Python data tooling (pandas, scikit-learn), and strengthening my foundations in statistics and applied ML.
+
+Let's connect:
+
+Email: diyaashok.jhawar@sjsu.edu
+
+Open to Data Science / ML internship opportunities — always happy to chat about projects or collaborate!
